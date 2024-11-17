@@ -1,0 +1,7 @@
+# Train/val
+train: /Users/zxb/Documents/CAU/Master_1/Vaccine-YOLOv10/MSQ/images/train
+val: /Users/zxb/Documents/CAU/Master_1/Vaccine-YOLOv10/MSQ/images/val
+ 
+# Classes
+nc: 1  # number of classes
+names: ['qrcode']
