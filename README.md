@@ -1,2 +1,7 @@
 # Vaccine-YOLOv10: Real-Time QR Code Detection Model for Complex Light Condition
 
+QR code is not only an information storage approach, but also a spatial localization sign. Compared to other spatial localization signs, QR code is more ac- curate and more efficient to be detected. To achieve spatial localization by QR code, detection is the es- sential procedure. Existing approaches perform well in regular light condition, however, preform badly in com- plex light condition, because frame quality is extremely damaged by complex light condition. In the real world, complex light condition is very common but always un- avoidable. Therefore, it is necessary and worthwhile to improve the under-complex-light QR code detection. 
+
+![](/for_readme/Fig1.jpg)
+
+Vaccine-YOLOv10 (VCY) is proposed to enhance QR code detection capability in complex light condition. First, GhostConv and FasterC2f are intro- duced to replace the corresponding original modules of YOLOv10n. Second, Simulative Data Augment Algo- rithm (SDA) is proposed to simulate 5 types of complex light condition. Third, self-built Multi-Scene QR Code Dataset (MSQ) is augmented by SDA for VCY train- ing. Compared to the baseline model YOLOv10n, VCY is improved on both lightweight and accuracy. Specifi- cally, FPS reaches to 150; GFLOPs reduces from 8.2 to 5.3; mAP50 increases from 0.877 to 0.905.
