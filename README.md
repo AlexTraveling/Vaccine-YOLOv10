@@ -1,8 +1,10 @@
 # Vaccine-YOLOv10: real-time QR code detection model for complex light condition
 
-#### Xiaobei Zhao, Xiang Li
-#### China Agricultural University
-This paper is published on Journal of Real-Time Image Processing: 
+**Xiaobei Zhao, Xiang Li**
+15801175735@163.com, cqlixiang@cau.edu.cn
+**China Agricultural University**
+
+Published on **Journal of Real-Time Image Processing**: 
 https://link.springer.com/article/10.1007/s11554-025-01631-z
 
 ## Why we build Vaccine-YOLOv10
