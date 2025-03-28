@@ -1,4 +1,9 @@
-# Vaccine-YOLOv10: Real-Time QR Code Detection Model for Complex Light Condition
+# Vaccine-YOLOv10: real-time QR code detection model for complex light condition
+
+### Xiaobei Zhao, Xiang Li
+### China Agricultural University
+### This paper is published on Journal of Real-Time Image Processing: 
+https://link.springer.com/article/10.1007/s11554-025-01631-z
 
 QR code is not only an information storage approach, but also a spatial localization sign. Compared to other spatial localization signs, QR code is more accurate and more efficient to be detected. To achieve spatial localization by QR code, detection is the essential procedure. Existing approaches perform well in regular light condition, however, preform badly in complex light condition, because frame quality is extremely damaged by complex light condition. In the real world, complex light condition is very common but always unavoidable. Therefore, it is necessary and worthwhile to improve the under-complex-light QR code detection.
 
